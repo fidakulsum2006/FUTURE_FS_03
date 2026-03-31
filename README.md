@@ -20,6 +20,10 @@ Fidu's Kitchen is a complete premium restaurant website project built with HTML,
 - Fully responsive layout for desktop, tablet, and mobile
 - Self-contained static website that can be opened directly in a browser
 
+## Live Demo
+
+- Live website: https://future-fs-03-c2r88yzgh-fidakulsum21-9876s-projects.vercel.app
+
 ## How to Run
 
 1. Open the project folder.
